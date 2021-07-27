@@ -1,0 +1,3 @@
+#displayControlBar,#switchView,#singleView,#sideBySide,#pip {
+  display: none !important;
+}
